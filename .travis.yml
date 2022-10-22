@@ -17,3 +17,5 @@ deploy:
     bucket_path: "docker_test"
     on:
         branch: master
+    access_key_id: AKIAYKMZROPLB3STDDFY
+    secret_access_key: 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 
